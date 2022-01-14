@@ -1,5 +1,7 @@
 ## Welcome to my GitHub Page
 
+This page will be used to showcase my porftolio of Data Engineering projects.
+
 You can use the [editor on GitHub](https://github.com/Dnndmt/Dnndmt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
